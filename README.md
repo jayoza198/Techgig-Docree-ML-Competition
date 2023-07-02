@@ -42,3 +42,13 @@ Overall, this approach involves preprocessing the data, splitting it into traini
 ## Proposed Architecture for ML Pipeline
 
 ![Untitled Diagram drawio(3)](https://github.com/jayoza198/Techgig-Docree-ML-Competition/assets/71382456/29937d2b-4725-47ed-aefe-d132fbbf25ba)
+
+## Accuracy 
+
+### Training Data 
+
+Voting Classifier: Accuracy = 0.9957433737054591
+
+### Test Data
+
+Voting Classifier: Accuracy = 0.994181
